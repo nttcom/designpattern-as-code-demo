@@ -2,7 +2,7 @@
 
 A demo code of Design Pattern as Code shown in KubeCon 2020 EU Virtual.
 
-See https://github.com/j-maxi/simple-app for an instruction to use these patterns.
+See https://github.com/nttcom/designpattern-sample-app for an instruction to use these patterns.
 
 ## Dependencies
 
